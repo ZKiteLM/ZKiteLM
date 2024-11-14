@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me
+I majored in software engineering at Soochow University and am now a master of Computer Science and Tecnology at Xi'an Jiaotong University.  
+My research interests are recommender systems and large language model mathematical reasoning.  
 
 <!--
 **ZKiteLM/ZKiteLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
